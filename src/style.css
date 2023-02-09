@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.quediv {
+  color:blue;
+  background-color: blueviolet;
+}
+
+main {
+  background-color: blueviolet;
+  width: 550px;
+  height: 550px;
+  background: #F5F7FB;
+}
